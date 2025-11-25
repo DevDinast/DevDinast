@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">👋 Hey, je suis <strong>DevDinast</strong></h1>
+<p align="center">Développeur Web Full Stack. Mon objectif est de concevoir des solutions technologiques utiles et évolutives pour toute l'Afrique. Rejoignez-moi dans cette aventure 🌍</p>
 
-<!--
-**DevDinast/DevDinast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Stacks & Compétences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Langages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python" />
+</p>
+
+### 🧱 Frameworks & Libraries
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=laravel,react" />
+</p>
+
+### 🗄️ Base de données
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🛠️ Outils & Environnement
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,composer" />
+</p>
+
+---
+
+## 🌟 Projets phares
+
+### 🔹 **Eat-Drink (Laravel)**  
+Application web en Laravel pour la gestion de menus et de commandes.  
+🔗 https://github.com/DevDinast/eat-drink  
+
+---
+
+## 🔗 Me contacter
+- **Email :** johnhoundji@gmail.com  
+- **LinkedIn :** *(mets ton lien ici)*  
+- **Portfolio :** *(mets ton lien ici, si tu en as un)*
