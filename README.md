@@ -37,5 +37,3 @@ Application web en Laravel pour la gestion de menus et de commandes.
 
 ## 🔗 Me contacter
 - **Email :** johnhoundji@gmail.com  
-- **LinkedIn :** *(mets ton lien ici)*  
-- **Portfolio :** *(mets ton lien ici, si tu en as un)*
