@@ -8,7 +8,7 @@
 </p>
 
 ## 📌 About Me
-- je suis quelqu'un qui aime a pprendre ,mon objectif serait denumeriser l'Afrique entière
+- je suis quelqu'un qui aime apprendre ,mon objectif serait de numeriser l'Afrique entière,rejoignez moi dans mon univers 
 
 
 ## 📊 GitHub Stats & Trophies
@@ -33,7 +33,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /></p>
 
 > ## Backend
-<p align="center"><img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="Laravel" width="48" height="48" style="margin: 4px;" /></p>
+<p align="center"><img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="Laravel" width="150" height="48" style="margin: 4px;" /></p>
 
 > ## Database
 <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /></p>
